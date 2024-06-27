@@ -1,1 +1,8 @@
-npm install axios
+{
+  "name": "discord-chat-zeta",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
